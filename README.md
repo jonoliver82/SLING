@@ -19,7 +19,7 @@ Run the executable SLING.exe, found in the Bin\Debug folder.
 Open ARM assembler files through the File-Open Menu.
 Samples are located in the Samples used folder.
 
-### #Build Environment
+### Build Environment
 The application has been built on Windows Vista, using Microsoft Visual Studio.
 Visual Stuido 2005 was used first, then 2008 when it was released.
 As such the solution files are for 2008, but do not differ significantly from 2005.
